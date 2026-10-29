@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Text+Editor-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Code+Editor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Zed Free Installer** — Zed is a free, high-performance collaborative code editor written in Rust that prioritizes speed and real-time multiplayer coding. Works without internet access, no account required. Full offline installation.
+**💻 Zed Free Installer** — Zed is a high-performance, collaborative code editor built in Rust by the creators of Atom. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Zed
 
-Zed is a free, high-performance collaborative code editor written in Rust that prioritizes speed and real-time multiplayer coding. It features a GPU-accelerated renderer, LSP support, built-in AI assistance, and a modern, minimal interface.
+Zed is a high-performance, collaborative code editor built in Rust by the creators of Atom. Designed for speed with GPU-rendered text, Zed features real-time multiplayer collaboration, AI assistant integration, and first-class language server protocol support. Its focus on performance and team collaboration positions Zed as a next-generation alternative for developer teams who spend their day in their editor.
 
 ---
 
 ## ❌ Problem: Zed is hard to access
 
-- **macOS Primary** — Linux version available; Windows support still in progress
-- **Limited Extension Ecosystem** — Plugin library much smaller than VS Code
-- **Collaboration Requires Account** — Real-time multiplayer features require Zed account
-- **Early Ecosystem** — Community and tooling still building compared to established editors
+- **macOS Initial Focus** — Started macOS-first; Windows/Linux support added later
+- **Extension Ecosystem** — Much smaller than VS Code extension library
+- **Early Stage** — Some features still maturing compared to established editors
+- **Collaboration Requires Account** — Real-time collaboration features need Zed account
 
 ---
 
@@ -121,7 +121,7 @@ Zed is a free, high-performance collaborative code editor written in Rust that p
 
 ---
 
-**Zed Free Installer** — Zed is a free, high-performance collaborative code editor written in Rust that prioritizes speed and real-time multiplayer coding. Install without internet connection today!
+**Zed Free Installer** — Zed is a high-performance, collaborative code editor built in Rust by the creators of Atom. Install without internet connection today!
 
 <div align="center">
 
